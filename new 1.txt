@@ -1,0 +1,465 @@
+ascii
+pl
+report
+log
+smi
+html5
+ver
+reg
+las
+yml
+tce	TLE
+ffp	FLAC
+linux	Linux
+label	Label
+diz	Description
+application
+mtx
+xmp
+dtd	Document
+xsd
+wer
+dbt	Database
+xlf	XLIFF
+smali	Google
+att	Web
+sbv	YouTube
+aml
+fpt	Database
+drp	Droplets
+pdu	Protocol
+full	Cygwin
+bss	Bridge
+des	Description
+nfo
+ecsv	Encapsulated
+lst
+extra
+gen	Ventura
+android	Readme
+us	English
+xy	XyWrite
+kar	MIDI
+modd	Picture
+igy
+brf
+mf	Metafont
+sdnf	Steel
+sha1	SHA-1
+tfw	ArcView
+fsa	FASTA
+en	English
+err	Error
+ldf	Microsoft
+eia	Excellon
+s19	Motorola
+sfb	Sony
+bog	Binary
+ansi	Mistaken
+ltx	S.T.A.L.K.E.R.
+strings
+zib	ZX-Editor
+srx	SPARQL
+ru	Russian
+ipr	IntelliJ
+xdp
+ba1
+xff	XFRX
+rff	Roproc
+ac	AC3D
+xsl
+annot
+artask	Remedy
+lrc	Lyrics
+fr	French
+opml
+crash
+nt
+resp
+mp3	Masterpoint
+ans	ANSI
+diskdefines	Linux
+tt
+ion	Description
+alx	BlackBerry
+ssa	SubStation
+lin	Bridge
+readme	README
+emulecollection	eMule
+utf8	Unicode
+new	New
+rt	Rich
+vzm	Verizon
+mw	MediaWiki
+clg
+uk	English
+rus	Russian
+pjs	Phoenix
+wkf	KF
+xslt
+sha512	SHA512
+s2k	Sasami2K
+1st	Readme
+adl	ADONIS
+oot	Apache
+rml	Redline
+markdown	Markdown
+desc	Description
+lisp
+tlx	Wintertree
+clipping
+bnx	Board
+dea	Drug
+not	Notation
+odc
+idt	Windows
+ja	Japanese
+dqy
+prn	Lotus
+tdump	JIRA
+soap	Simple
+bna	Atlas
+fin	Sapir
+spx
+ger	German
+gbf	General
+gnu	GNU
+skv	Semicolon
+pac	Polistream
+mit	MineEdit
+lnc	Football
+spec	Specification
+xdl	MS
+rtx	Rich
+blm	Eurolink
+efm	Electronic
+lyr	Lyrics
+coo	AutoCAD
+rest	reStructuredText
+!!!	README
+pln	Microsoft
+textile	Eclipse
+lwd	LotusWorks
+cof	AutoDesk
+pcl
+vhdl	Quartus
+edml
+dk	Danish
+st1	DigiTitle
+dpv	PrintView
+klg	Log
+srt	WebSRT
+pla	iriver
+vfk	Czech
+isr	InstallShield
+cd2	DATAIR
+enf	Musitek
+bcr	map&guide
+etf	Enriched
+map
+notes	Memento
+bpdx
+dok	ASCII
+mkdn	Markdown
+plk	COREX
+ocr	FaxGrapper
+usf	Core
+nbr	NovaBench
+zhp	SwiftView
+asp	ASP
+crwl
+opc	Microsoft
+lxfml	LEGO
+$00
+etx	Setext
+tcm	INMOS
+first	Formatted
+jeb	PENSIM
+user	Microsoft
+zed	ZX-Edit
+ltr	Letter
+jp1	Japanese
+pvw	Portfolio
+bln	Golden
+chord	Song
+jtx	Jrju
+wst	WordStar
+ort	IBM
+txe	Enriched
+ctl
+ext	E-mail
+dne	Netica
+hvc	ASCII
+bsdl	Boundary
+uhtml	uHTML
+prr	Accent
+mib	Management
+faq	Frequently
+frm	Form
+lo_	Microsoft
+sami	Synchronized
+dat	Tecplot
+$01
+phr	Adobe
+prc	Palm
+rea	readme
+vcf	Variant
+hhc
+$02
+wsh
+txt	Subtitles
+it	Italian
+pmo	Pegasus
+de	German
+text	Markdown
+lst	Ingres
+dfe	RISC
+vw
+htmls	HyperText
+tle	TLE
+ckn	Disk
+vhd	Quartus
+xwp	Xerox
+dkz	ZIP
+uni	Unicode
+gthr
+nna	NeuralWare
+htx	Microsoft
+txt
+x70	XTree
+aqt	AQTitle
+_me	Read
+ttbl
+charset	Character
+usg	PC-Doctor
+vers	Version
+tab	Guitar
+maxfr	MaxView
+ddd	BullsEye
+ltt	HP
+ctl	EditPlus
+kor	Korean
+x80	Xtree
+guide	AmigaGuide
+osn
+txk	Karaoke
+kch	KChess
+dmr	BrainVoyager
+x20	XTree
+qdt
+inuse	Text
+map	Offline
+bdp	Microsoft
+xc0	Xtree
+ssf	Subtitles
+dectest	Decimal
+aprj	ApacheConf
+unx	Unix
+blw	ArcView
+skcard	Borland
+bep	Beamer
+assoc	Associate
+nlc	Nero
+thp
+bea	Beamer
+adw	Tamil
+89t	TI-89
+qud
+txh	Light
+now	Text
+tx8	8-bit
+q&a	Questions
+kix	KiXtart
+crd	Guitar
+awa	ActiveWords
+utx	Unicode
+mcw
+lue
+soundscript	Rigs
+mss	Manuscript
+omn	Omnipotent
+hs
+wn	NeXT
+luf	Lipikar
+big5	Chinese
+mathml	Mathematical
+hz	Chinese
+tph	Turbo
+bbs	Bulletin
+wtx	WinTune
+$ol
+ttpl
+fnx	Fenix
+txd	Clarion
+mdwn	Markdown
+tnef
+iem	Informix
+zw	Chinese
+sk	Slovak
+hlm	Help
+vkp	Sony
+dp	Text
+snw	Sweave
+pc5	Rockwell
+ttxt
+p3x	HTML
+rtl	Text
+mkd	Markdown
+hhs	Microsoft
+$04
+igv	Integrative
+tab	Tab
+trt	DLocalizer
+xsr	FabTrol
+ill	Illust
+lst	Family
+txa	Clarion
+cdt	ImgBurn
+gpl	GNU
+lst
+jam
+linx	Bridge
+clix	CLIX
+csassembly
+spg	MOIRA
+psb	PowerDivX
+ttf	Quartus
+nmbd	Samba
+rst	reStructuredText
+fff	RISC
+utxt	Unicode
+bdn	Blu-ray
+mdown	Markdown
+oh	DrillAssistant
+mar	MARC
+u3i	U3
+vxml
+mpl	MPL2
+seq	Commodore
+$o1
+hpm	HP
+001	SwiftView
+tmx	Translation
+ctx	GE
+mdle	Motion
+x60	XtreeGold
+unauth	SiteMinder
+smf	System
+lst
+es	Spanish
+gtx	GX
+tx?	LoseThos
+mdtext	Markdown
+82t	TI-82
+dfm	Delphi
+cil	Norton
+jam	Altera
+adiumlog
+pfs	pfs:Write
+idx	Easy
+dii	CT
+wrd	COREX
+openbsd	OpenBSD
+asl	AppSight
+hdr	ArcView
+jis	Japanese
+ted	DVICO
+nokogiri	Nokogiri
+big	Chinese
+cc	Trojan
+plf	SalesLogix
+mez	RealArcade
+trn	STN
+oogl	Geomview
+csmanifest
+abt	Braille2000
+cif	Caltech
+nwctxt	NoteWorthy
+adt
+bt	Binary
+fil	File
+cas	Comma-delimited
+zxe	ZX-Editor
+la	GNU
+pd	Pure
+dcd	Document
+mtx	Anjal
+lay	Rhino
+bel	Beamer
+inc
+tbd	Dansk
+flr	Flare
+inc	JAWS
+xhtm
+dsml	Directory
+adiumhtmllog
+tm	TeXmacs
+man	Unix
+v2t	Voyage200
+tgf	Trival
+dsc	Tag
+xyp	XY
+xyz	EOIS
+t
+tdf	Project
+lyt
+jss	JACOSub
+mtxt	MOPEKS
+xwp	XMLwriter
+bad	Microsoft
+spn	Spanish
+jam	JAM
+tlb	VAX
+me
+bk	Movie
+vsmproj
+ojp	3WayPack
+$05
+dce
+vna	NetDraw
+pcc	Photocomposition
+sms	Sony
+t2t	Txt2tags
+text	yBook
+9xt	TI-89
+panic
+axt	ASCII
+mdtxt	Markdown
+ion	Mascot
+s2s	SRT2SUP
+vis	VISkompakt
+7	GNU
+ctf	Casio
+ctd	CardTable
+vw3
+awh	ActiveWorlds
+cho	CUHP
+tte	TextTransformer
+pt3	Protext
+tmprtf	TimeMap
+nclk	HTML
+tlx	Technics
+curl	URL
+idc	Text
+euc	UNIX
+kahl	Think
+x90	XTree
+id31	Helium
+fra	French
+fon	COREX
+mpsub	Subtitle
+pvj	ProofVision
+rzn	Red
+osi	SunNet
+cli
+92t	TI-92
+sen	SenTest
+8	Unix
+xyw	XYWrite
+awb	ActiveWords
+id32	Helium
+pro	COREX
+box
+set	3WayPack
+stq	StatSoft
+igtx	IGOR
